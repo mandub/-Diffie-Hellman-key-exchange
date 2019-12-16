@@ -1,0 +1,6 @@
+My project is an implementation of key exchange using Diffie Hellman algorithm.
+it contain two file one called Alice and the other called Bob .
+To run the project correctly you need to run alice file first then run Bob file.
+I choose "localhost" but you can run it in any ip but you need to change the port.
+thanks 
+Almandub
